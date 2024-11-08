@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I am currently working for a private South African based company situated in the agricultural sector. In this role, using my skills in mobile application development, I have developed a mobile application for the company and published the application on Google Play Store which is currently being used as a real time tracker.<br>For a different company, I worked as part of a team to develop a stock management system.<br><br>I would like to get into the space of Artificial Intelligence and how to use AI to develop and train models in any sector.<br><br>I am currently studying part-time to get my AWS Certification.<br><br>Fun Facts:<br>I am a huge Coffee Lover.<br>I enjoy mountain biking and hiking.
+I am currently working for a private South African based company situated in the agricultural sector. In this role, using my skills in mobile application development, I have developed a mobile application for the company and published the application on Google Play Store which is currently being used as a real time tracker.<br>For a different company, I worked as part of a team to develop a stock management system.<br><br>I would like to get into the space of Artificial Intelligence and how to use AI to develop and train models in any sector.<br><br>Fun Facts:<br>I am a huge Coffee Lover.<br>I enjoy mountain biking and hiking.
 
 ## 🌐 Socials:
 
